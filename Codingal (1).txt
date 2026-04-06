@@ -1,0 +1,8 @@
+
+File in write mode .....
+
+Hello! We are learning about File Handling and have Davis i calss as the Student, and Dominic as the Teacher 
+
+File in write mode .....
+
+Hello! We are learning about File Handling  
