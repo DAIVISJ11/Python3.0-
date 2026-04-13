@@ -1,4 +1,1 @@
-Math might seem irrelivant in football but actually it is used  to calculate when to shoot and when to curve the ball The content is outstanding 
- You might think names dont have meaning but they actually 
- 
-The content is outstanding
+file operationsar essential actions formanaging data, including creating, opening, teading, writing, updating and deleting files to store information pamanently
